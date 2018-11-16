@@ -6,5 +6,5 @@
 ***
 ##### 3.工程结构图片如下所示:
 ***
-<center>![github](image/project.jpg "github")</center>
+<center>![github](../image/project.jpg "github")</center>
        
