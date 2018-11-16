@@ -6,5 +6,7 @@
 ***
 ##### 3.工程结构图片如下所示:
 ***
-<center>![github](https://github.com/LoveCodingAgain/newweb/blob/master/image/project.jpg, "项目工程图")</center>
+<center><font color=grey>项目工程图</font></center>
+***
+<center>![github](https://github.com/LoveCodingAgain/newweb/blob/master/image/project.jpg "项目工程图")</center>
        
